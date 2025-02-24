@@ -580,9 +580,9 @@ footer {
    padding: 60px;
    text-align: center;
    background-color: #fff;
-   color: black;
-   font-size: 22px;
-   font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif
+   color: rgba(0, 0, 0, 0.526);
+   font-size: 10px;
+   font-family: inherit;
 }
 
 
